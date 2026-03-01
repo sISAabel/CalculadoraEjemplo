@@ -7,5 +7,6 @@ public class Main {
         System.out.println("Resta: " + calc.resta());
         System.out.println("Multiplicación: " + calc.multiplicacion());
         System.out.println("División: " + calc.division());
+        System.out.println("Modificación");
     }
 }
